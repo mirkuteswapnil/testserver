@@ -1,0 +1,37 @@
+[  
+{
+    "albumId": 101,
+    "id": 1,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "url": "https://via.placeholder.com/600/101",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+},
+{
+    "albumId": 111,
+    "id": 2,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "url": "https://via.placeholder.com/600/111",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+},
+{
+    "albumId": 129,
+    "id": 3,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "url": "https://via.placeholder.com/600/129",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+},
+{
+    "albumId": 150,
+    "id": 4,
+    "title": "accusamus beatae ad facilis cum similique qui sunt",
+    "url": "https://via.placeholder.com/600/150",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+},
+{
+    "albumId": 160,
+    "id": 5,
+    "title": "accusamus beata ad facilis cum similique qui sunt",
+    "url": "https://via.placeholder.com/600/160",
+    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+}
+]
